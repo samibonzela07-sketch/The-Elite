@@ -1,0 +1,14 @@
+{
+  "name": "the-elite",
+  "version": "1.0.0",
+  "description": "The Elite - Ultimate Dragon Soul Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "dragonball",
+    "dragon-soul",
+    "bot",
+    "discord
